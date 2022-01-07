@@ -1,0 +1,2 @@
+# Language_Detection-master
+Multi Language Detection_Rendi Julianto_181011401420_UAS_SPK
