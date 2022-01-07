@@ -1,2 +1,2 @@
 # Language_Detection-master
-Multi Language Detection_Rendi Julianto_181011401420_UAS_SPK
+Multi Language Detection_Rendi Julianto_181011401420_07TPLM008_UAS_SPK
